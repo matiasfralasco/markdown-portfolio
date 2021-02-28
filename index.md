@@ -6,9 +6,9 @@ layout: default
 
 <br>
 
-{% ![Imagen de Coquita](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coca-Cola_bottle_cap.svg/1200px-Coca-Cola_bottle_cap.svg.png) %}
+{% ![Imagen de Coquita] %}
 
 <br>
 
-{% include 03-links.md %}
+{% (https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coca-Cola_bottle_cap.svg/1200px-Coca-Cola_bottle_cap.svg.png) %}
 
