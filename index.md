@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% Gracias por la coquita mi amor %}
+{% include 01-name.md %}
 
 <br>
 
