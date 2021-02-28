@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% Gracias por la coquita mi amor <3 %}
+{% Gracias por la coquita mi amor %}
 
 <br>
 
