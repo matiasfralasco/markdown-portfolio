@@ -4,3 +4,11 @@ layout: default
 
 # {% include 01-name.md %}
 
+<br>
+
+{% ![Imagen de Coquita] %}
+
+<br>
+
+{% (https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coca-Cola_bottle_cap.svg/1200px-Coca-Cola_bottle_cap.svg.png) %}
+
