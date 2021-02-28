@@ -2,11 +2,11 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+{% Gracias por la coquita mi amor <3 %}
 
 <br>
 
-{% include 02-image.md %}
+{% ![Imagen de Coquita](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coca-Cola_bottle_cap.svg/1200px-Coca-Cola_bottle_cap.svg.png) %}
 
 <br>
 
